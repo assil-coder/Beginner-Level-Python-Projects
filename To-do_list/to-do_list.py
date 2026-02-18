@@ -19,7 +19,7 @@ while True:
             tasks.append(adding_task)
             
     elif user_option=="2":
-            print(tasks)
+        print(f"here's your tasks list {tasks}")
 
     elif user_option=="3":
             print(tasks)
@@ -40,8 +40,9 @@ while True:
                   print("task not found!")
         
     elif user_option=="5":
+            print("Goodbye!")
             break
-
+	
     else:
         print("Error!")
 
