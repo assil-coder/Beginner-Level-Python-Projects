@@ -6,3 +6,5 @@ a simple cli calculator that do basic operations ( + , - , * , / )
 a simple cli game that compares between the user's guessed number and the computer's guessed one
 ## Project 3: TO-Do list
 a simple cli to do list app 
+## Project 4: Password generator 
+a password generator that works on the terminal
