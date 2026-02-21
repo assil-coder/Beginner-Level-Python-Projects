@@ -8,3 +8,5 @@ a simple cli game that compares between the user's guessed number and the comput
 a simple cli to do list app 
 ## Project 4: Password generator 
 a password generator that works on the terminal
+## Project 5: Expenses tracker
+a simple program that tracks your spendings
